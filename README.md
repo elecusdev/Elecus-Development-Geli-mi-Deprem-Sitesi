@@ -87,31 +87,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
    npm run dev
    ```
 
-4. Tarayıcınızda `http://localhost:3000` adresini açın
-
-## 🛡️ Güvenilirlik ve Veri Kaynakları
-
-DepremTakip, verileri güvenilir kaynaklardan almaktadır:
-- Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü (KOERI) - Boğaziçi Üniversitesi
-- API verilerini düzenli aralıklarla günceller (5 dakikada bir)
-
-## ⚠️ Önemli Not
-
-Bu uygulama yalnızca bilgilendirme amaçlıdır. Acil durumlarda lütfen resmi kaynakları takip edin ve yerel otoritelerin talimatlarına uyun.
-
-## 📬 İletişim ve Katkıda Bulunma
-
-DepremTakip hakkında geri bildirimleriniz, önerileriniz veya katkılarınız için lütfen iletişime geçin:
-
-- Discord: [! Akira](https://discord.com/users/337545269845688361)
-- GitHub: [Sorunlar ve İstekler](https://github.com/akiracik/deprem-bilgi/issues)
-
-Bu projeyi beğendiyseniz, yıldız ⭐ vermeyi unutmayın!
-
-## 📄 Lisans
-
-DepremTakip açık kaynaklı bir projedir ve MIT lisansı altında dağıtılmaktadır.
-
 ---
 
 Depremler hakkında bilgi sahibi olmak, afetlere karşı hazırlıklı olmak için önemli bir adımdır. Güvende kalın! 🌍🏠
